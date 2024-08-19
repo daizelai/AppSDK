@@ -10,6 +10,18 @@ $dokka.location:cn.app.library.log/FileSizeBackupStrategy///PointingToDeclaratio
 $dokka.location:cn.app.library.log/FileSizeBackupStrategy/FileSizeBackupStrategy/#kotlin.Long#kotlin.Int#cn.app.library.log.LogRepository/PointingToDeclaration/applibrary/cn.app.library.log/-file-size-backup-strategy/-file-size-backup-strategy.html
 $dokka.location:cn.app.library.log/FileSizeBackupStrategy/getBackupFileName/#kotlin.String#kotlin.Int/PointingToDeclaration/applibrary/cn.app.library.log/-file-size-backup-strategy/get-backup-file-name.html
 $dokka.location:cn.app.library.log/FileSizeBackupStrategy/shouldBackup/#java.io.File/PointingToDeclaration/applibrary/cn.app.library.log/-file-size-backup-strategy/should-backup.html
+$dokka.location:cn.app.library.log/JavaDateFilePathGenerator///PointingToDeclaration/applibrary/cn.app.library.log/-java-date-file-path-generator/index.html
+$dokka.location:cn.app.library.log/JavaDateFilePathGenerator/JavaDateFilePathGenerator/#/PointingToDeclaration/applibrary/cn.app.library.log/-java-date-file-path-generator/-java-date-file-path-generator.html
+$dokka.location:cn.app.library.log/JavaDateFilePathGenerator/generateFileName/#int#long/PointingToDeclaration/applibrary/cn.app.library.log/-java-date-file-path-generator/generate-file-name.html
+$dokka.location:cn.app.library.log/JavaDateFilePathGenerator/isFileNameChangeable/#/PointingToDeclaration/applibrary/cn.app.library.log/-java-date-file-path-generator/is-file-name-changeable.html
+$dokka.location:cn.app.library.log/JavaFileSizeBackupStrategy///PointingToDeclaration/applibrary/cn.app.library.log/-java-file-size-backup-strategy/index.html
+$dokka.location:cn.app.library.log/JavaFileSizeBackupStrategy/JavaFileSizeBackupStrategy/#long#int#cn.app.library.log.LogRepository/PointingToDeclaration/applibrary/cn.app.library.log/-java-file-size-backup-strategy/-java-file-size-backup-strategy.html
+$dokka.location:cn.app.library.log/JavaFileSizeBackupStrategy/getBackupFileName/#java.lang.String#int/PointingToDeclaration/applibrary/cn.app.library.log/-java-file-size-backup-strategy/get-backup-file-name.html
+$dokka.location:cn.app.library.log/JavaFileSizeBackupStrategy/shouldBackup/#java.io.File/PointingToDeclaration/applibrary/cn.app.library.log/-java-file-size-backup-strategy/should-backup.html
+$dokka.location:cn.app.library.log/JavaFlattener///PointingToDeclaration/applibrary/cn.app.library.log/-java-flattener/index.html
+$dokka.location:cn.app.library.log/JavaFlattener/JavaFlattener/#/PointingToDeclaration/applibrary/cn.app.library.log/-java-flattener/-java-flattener.html
+$dokka.location:cn.app.library.log/JavaFlattener/flatten/#int#java.lang.String#java.lang.String/PointingToDeclaration/applibrary/cn.app.library.log/-java-flattener/flatten.html
+$dokka.location:cn.app.library.log/JavaFlattener/flatten/#long#int#java.lang.String#java.lang.String/PointingToDeclaration/applibrary/cn.app.library.log/-java-flattener/flatten.html
 $dokka.location:cn.app.library.log/LogFlattener///PointingToDeclaration/applibrary/cn.app.library.log/-log-flattener/index.html
 $dokka.location:cn.app.library.log/LogFlattener/LogFlattener/#/PointingToDeclaration/applibrary/cn.app.library.log/-log-flattener/-log-flattener.html
 $dokka.location:cn.app.library.log/LogFlattener/flatten/#kotlin.Int#kotlin.String#kotlin.String/PointingToDeclaration/applibrary/cn.app.library.log/-log-flattener/flatten.html
@@ -43,11 +55,16 @@ $dokka.location:cn.app.library.utils/TimeUtils/formatTimestamp/#kotlin.Long#kotl
 $dokka.location:cn.app.library.utils/TimeUtils/getCurrentTimestamp/#/PointingToDeclaration/applibrary/cn.app.library.utils/-time-utils/get-current-timestamp.html
 $dokka.location:cn.app.library.utils/TimeUtils/getSystemTime/#/PointingToDeclaration/applibrary/cn.app.library.utils/-time-utils/get-system-time.html
 $dokka.location:cn.app.library.utils/XLogInitializer///PointingToDeclaration/applibrary/cn.app.library.utils/-x-log-initializer/index.html
-$dokka.location:cn.app.library.utils/XLogInitializer/init/#kotlin.String#kotlin.Long#kotlin.Int#cn.app.library.log.LogRepository/PointingToDeclaration/applibrary/cn.app.library.utils/-x-log-initializer/init.html
+$dokka.location:cn.app.library.utils/XLogInitializer/init/#android.content.Context#kotlin.String#kotlin.Int#kotlin.Long#kotlin.Int#cn.app.library.log.LogRepository/PointingToDeclaration/applibrary/cn.app.library.utils/-x-log-initializer/init.html
 $dokka.location:cn.app.library.utils/ZipUtils///PointingToDeclaration/applibrary/cn.app.library.utils/-zip-utils/index.html
 $dokka.location:cn.app.library.utils/ZipUtils/unZipFile/#kotlin.String?#kotlin.String?/PointingToDeclaration/applibrary/cn.app.library.utils/-zip-utils/un-zip-file.html
 $dokka.location:cn.app.library.utils/ZipUtils/zipFile/#kotlin.String#kotlin.String/PointingToDeclaration/applibrary/cn.app.library.utils/-zip-utils/zip-file.html
 $dokka.location:cn.app.library.utils/ZipUtils/zipFolder/#kotlin.String?#kotlin.String/PointingToDeclaration/applibrary/cn.app.library.utils/-zip-utils/zip-folder.html
+$dokka.location:cn.app.library.widget////PointingToDeclaration/applibrary/cn.app.library.widget/index.html
+$dokka.location:cn.app.library.widget/WarpLinearLayout///PointingToDeclaration/applibrary/cn.app.library.widget/-warp-linear-layout/index.html
+$dokka.location:cn.app.library.widget/WarpLinearLayout/WarpLinearLayout/#android.content.Context#android.util.AttributeSet?/PointingToDeclaration/applibrary/cn.app.library.widget/-warp-linear-layout/-warp-linear-layout.html
+$dokka.location:cn.app.library.widget/WarpLinearLayout/addTextView/#kotlin.String#android.view.View.OnClickListener?#kotlin.Int?#kotlin.Int?#kotlin.Int#kotlin.Int?#kotlin.Int?#kotlin.Int?#kotlin.Int?#kotlin.Int?#kotlin.Int?#kotlin.Int?#kotlin.Int?#kotlin.Int?#kotlin.Int?/PointingToDeclaration/applibrary/cn.app.library.widget/-warp-linear-layout/add-text-view.html
 cn.app.library.log
 cn.app.library.utils
+cn.app.library.widget
 
