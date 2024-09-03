@@ -1,5 +1,13 @@
 $dokka.format:html-v1
 $dokka.linkExtension:html
+$dokka.location:cn.app.library.exception////PointingToDeclaration/applibrary/cn.app.library.exception/index.html
+$dokka.location:cn.app.library.exception/CrashHandler.Companion///PointingToDeclaration/applibrary/cn.app.library.exception/-crash-handler/-companion/index.html
+$dokka.location:cn.app.library.exception/CrashHandler.Companion/getInstance/#kotlin.String/PointingToDeclaration/applibrary/cn.app.library.exception/-crash-handler/-companion/get-instance.html
+$dokka.location:cn.app.library.exception/CrashHandler///PointingToDeclaration/applibrary/cn.app.library.exception/-crash-handler/index.html
+$dokka.location:cn.app.library.exception/CrashHandler/init/#android.content.Context/PointingToDeclaration/applibrary/cn.app.library.exception/-crash-handler/init.html
+$dokka.location:cn.app.library.exception/CrashHandler/uncaughtException/#java.lang.Thread#kotlin.Throwable/PointingToDeclaration/applibrary/cn.app.library.exception/-crash-handler/uncaught-exception.html
+$dokka.location:cn.app.library.exception/CustomException///PointingToDeclaration/applibrary/cn.app.library.exception/-custom-exception/index.html
+$dokka.location:cn.app.library.exception/CustomException/CustomException/#kotlin.String?/PointingToDeclaration/applibrary/cn.app.library.exception/-custom-exception/-custom-exception.html
 $dokka.location:cn.app.library.log////PointingToDeclaration/applibrary/cn.app.library.log/index.html
 $dokka.location:cn.app.library.log/DateFilePathGenerator///PointingToDeclaration/applibrary/cn.app.library.log/-date-file-path-generator/index.html
 $dokka.location:cn.app.library.log/DateFilePathGenerator/DateFilePathGenerator/#/PointingToDeclaration/applibrary/cn.app.library.log/-date-file-path-generator/-date-file-path-generator.html
@@ -34,6 +42,7 @@ $dokka.location:cn.app.library.utils/AppLogger/debug/#kotlin.String/PointingToDe
 $dokka.location:cn.app.library.utils/AppLogger/error/#kotlin.String/PointingToDeclaration/applibrary/cn.app.library.utils/-app-logger/error.html
 $dokka.location:cn.app.library.utils/AppLogger/info/#kotlin.String/PointingToDeclaration/applibrary/cn.app.library.utils/-app-logger/info.html
 $dokka.location:cn.app.library.utils/AppLogger/record/#kotlin.String/PointingToDeclaration/applibrary/cn.app.library.utils/-app-logger/record.html
+$dokka.location:cn.app.library.utils/AppLogger/setDebugToFile/#kotlin.Boolean/PointingToDeclaration/applibrary/cn.app.library.utils/-app-logger/set-debug-to-file.html
 $dokka.location:cn.app.library.utils/AppLogger/verbose/#kotlin.String/PointingToDeclaration/applibrary/cn.app.library.utils/-app-logger/verbose.html
 $dokka.location:cn.app.library.utils/AppLogger/warn/#kotlin.String/PointingToDeclaration/applibrary/cn.app.library.utils/-app-logger/warn.html
 $dokka.location:cn.app.library.utils/AppUtils///PointingToDeclaration/applibrary/cn.app.library.utils/-app-utils/index.html
@@ -41,18 +50,32 @@ $dokka.location:cn.app.library.utils/AppUtils/TAG/#/PointingToDeclaration/appli
 $dokka.location:cn.app.library.utils/AppUtils/closeNavigation/#android.content.Context/PointingToDeclaration/applibrary/cn.app.library.utils/-app-utils/close-navigation.html
 $dokka.location:cn.app.library.utils/AppUtils/generateUUID/#/PointingToDeclaration/applibrary/cn.app.library.utils/-app-utils/generate-u-u-i-d.html
 $dokka.location:cn.app.library.utils/AppUtils/initHandler/#android.content.Context#kotlin.Boolean/PointingToDeclaration/applibrary/cn.app.library.utils/-app-utils/init-handler.html
+$dokka.location:cn.app.library.utils/AppUtils/isNotEmpty/#kotlin.String?/PointingToDeclaration/applibrary/cn.app.library.utils/-app-utils/is-not-empty.html
 $dokka.location:cn.app.library.utils/AppUtils/openNavigation/#android.content.Context/PointingToDeclaration/applibrary/cn.app.library.utils/-app-utils/open-navigation.html
 $dokka.location:cn.app.library.utils/AudioManagerUtils.Companion///PointingToDeclaration/applibrary/cn.app.library.utils/-audio-manager-utils/-companion/index.html
 $dokka.location:cn.app.library.utils/AudioManagerUtils.Companion/getInstance/#android.content.Context/PointingToDeclaration/applibrary/cn.app.library.utils/-audio-manager-utils/-companion/get-instance.html
 $dokka.location:cn.app.library.utils/AudioManagerUtils.Companion/mAudioManager/#/PointingToDeclaration/applibrary/cn.app.library.utils/-audio-manager-utils/-companion/m-audio-manager.html
 $dokka.location:cn.app.library.utils/AudioManagerUtils///PointingToDeclaration/applibrary/cn.app.library.utils/-audio-manager-utils/index.html
 $dokka.location:cn.app.library.utils/AudioManagerUtils/setEarphoneMode/#kotlin.String/PointingToDeclaration/applibrary/cn.app.library.utils/-audio-manager-utils/set-earphone-mode.html
+$dokka.location:cn.app.library.utils/DatabaseBackupTask.Companion///PointingToDeclaration/applibrary/cn.app.library.utils/-database-backup-task/-companion/index.html
+$dokka.location:cn.app.library.utils/DatabaseBackupTask///PointingToDeclaration/applibrary/cn.app.library.utils/-database-backup-task/index.html
+$dokka.location:cn.app.library.utils/DatabaseBackupTask/DatabaseBackupTask/#android.content.Context#kotlin.String/PointingToDeclaration/applibrary/cn.app.library.utils/-database-backup-task/-database-backup-task.html
+$dokka.location:cn.app.library.utils/DatabaseBackupTask/doTask/#kotlin.String#kotlin.String/PointingToDeclaration/applibrary/cn.app.library.utils/-database-backup-task/do-task.html
 $dokka.location:cn.app.library.utils/FileUtils///PointingToDeclaration/applibrary/cn.app.library.utils/-file-utils/index.html
 $dokka.location:cn.app.library.utils/FileUtils/fileIsExists/#kotlin.String?/PointingToDeclaration/applibrary/cn.app.library.utils/-file-utils/file-is-exists.html
 $dokka.location:cn.app.library.utils/FileUtils/getFileExt/#kotlin.String/PointingToDeclaration/applibrary/cn.app.library.utils/-file-utils/get-file-ext.html
+$dokka.location:cn.app.library.utils/FileUtils/getFileSavePath/#kotlin.String/PointingToDeclaration/applibrary/cn.app.library.utils/-file-utils/get-file-save-path.html
+$dokka.location:cn.app.library.utils/ResourcesUtils.Companion///PointingToDeclaration/applibrary/cn.app.library.utils/-resources-utils/-companion/index.html
+$dokka.location:cn.app.library.utils/ResourcesUtils.Companion/dip2px/#android.content.Context#kotlin.Float?/PointingToDeclaration/applibrary/cn.app.library.utils/-resources-utils/-companion/dip2px.html
+$dokka.location:cn.app.library.utils/ResourcesUtils.Companion/getStatusBarHeight/#android.content.Context/PointingToDeclaration/applibrary/cn.app.library.utils/-resources-utils/-companion/get-status-bar-height.html
+$dokka.location:cn.app.library.utils/ResourcesUtils.Companion/px2dip/#android.content.Context#kotlin.Float?/PointingToDeclaration/applibrary/cn.app.library.utils/-resources-utils/-companion/px2dip.html
+$dokka.location:cn.app.library.utils/ResourcesUtils///PointingToDeclaration/applibrary/cn.app.library.utils/-resources-utils/index.html
+$dokka.location:cn.app.library.utils/ResourcesUtils/ResourcesUtils/#/PointingToDeclaration/applibrary/cn.app.library.utils/-resources-utils/-resources-utils.html
 $dokka.location:cn.app.library.utils/TimeUtils///PointingToDeclaration/applibrary/cn.app.library.utils/-time-utils/index.html
 $dokka.location:cn.app.library.utils/TimeUtils/formatTimestamp/#kotlin.Long#kotlin.String/PointingToDeclaration/applibrary/cn.app.library.utils/-time-utils/format-timestamp.html
 $dokka.location:cn.app.library.utils/TimeUtils/getCurrentTimestamp/#/PointingToDeclaration/applibrary/cn.app.library.utils/-time-utils/get-current-timestamp.html
+$dokka.location:cn.app.library.utils/TimeUtils/getDate/#/PointingToDeclaration/applibrary/cn.app.library.utils/-time-utils/get-date.html
+$dokka.location:cn.app.library.utils/TimeUtils/getSafeTime/#/PointingToDeclaration/applibrary/cn.app.library.utils/-time-utils/get-safe-time.html
 $dokka.location:cn.app.library.utils/TimeUtils/getSystemTime/#/PointingToDeclaration/applibrary/cn.app.library.utils/-time-utils/get-system-time.html
 $dokka.location:cn.app.library.utils/XLogInitializer///PointingToDeclaration/applibrary/cn.app.library.utils/-x-log-initializer/index.html
 $dokka.location:cn.app.library.utils/XLogInitializer/init/#android.content.Context#kotlin.String#kotlin.Int#kotlin.Long#kotlin.Int#cn.app.library.log.LogRepository/PointingToDeclaration/applibrary/cn.app.library.utils/-x-log-initializer/init.html
@@ -64,6 +87,7 @@ $dokka.location:cn.app.library.widget////PointingToDeclaration/applibrary/cn.ap
 $dokka.location:cn.app.library.widget/WarpLinearLayout///PointingToDeclaration/applibrary/cn.app.library.widget/-warp-linear-layout/index.html
 $dokka.location:cn.app.library.widget/WarpLinearLayout/WarpLinearLayout/#android.content.Context#android.util.AttributeSet?/PointingToDeclaration/applibrary/cn.app.library.widget/-warp-linear-layout/-warp-linear-layout.html
 $dokka.location:cn.app.library.widget/WarpLinearLayout/addTextView/#kotlin.String#android.view.View.OnClickListener?#kotlin.Int?#kotlin.Int?#kotlin.Int#kotlin.Int?#kotlin.Int?#kotlin.Int?#kotlin.Int?#kotlin.Int?#kotlin.Int?#kotlin.Int?#kotlin.Int?#kotlin.Int?#kotlin.Int?/PointingToDeclaration/applibrary/cn.app.library.widget/-warp-linear-layout/add-text-view.html
+cn.app.library.exception
 cn.app.library.log
 cn.app.library.utils
 cn.app.library.widget
